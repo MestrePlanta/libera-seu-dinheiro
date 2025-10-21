@@ -92,7 +92,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Telefone</h3>
-                    <p className="text-muted-foreground">(11) 99999-9999</p>
+                    <p className="text-muted-foreground">(69) 99943-0176</p>
                     <p className="text-sm text-muted-foreground">Ligação ou WhatsApp</p>
                   </div>
                 </div>
@@ -148,7 +148,7 @@ const Contact = () => {
                   className="mt-4"
                   asChild
                 >
-                  <a href="https://wa.me/5511999999999">
+                  <a href="https://wa.me/556999430176">
                     <Phone className="mr-2 h-5 w-5" />
                     Falar Agora
                   </a>

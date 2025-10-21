@@ -52,7 +52,7 @@ const Hero = () => {
               className="text-lg px-8 py-6 border-2 border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
               asChild
             >
-              <a href="tel:+5511999999999">
+              <a href="tel:+556999430176">
                 <Phone className="mr-2 h-5 w-5" />
                 Ligar Agora
               </a>
@@ -66,7 +66,7 @@ const Hero = () => {
             </div>
             <div className="flex items-center gap-2">
               <Phone className="h-5 w-5" />
-              <span>(11) 99999-9999</span>
+              <span>(69) 99943-0176</span>
             </div>
           </div>
         </div>
