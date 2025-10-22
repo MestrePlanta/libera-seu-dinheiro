@@ -103,7 +103,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-lg mb-1">E-mail</h3>
-                    <p className="text-muted-foreground">contato@escritorio.com.br</p>
+                    <p className="text-muted-foreground">contato@danielschafer.com.br</p>
                     <p className="text-sm text-muted-foreground">Resposta em até 24h</p>
                   </div>
                 </div>
@@ -115,8 +115,8 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-lg mb-1">Endereço</h3>
                     <p className="text-muted-foreground">
-                      Av. Paulista, 1000 - Conj. 800<br />
-                      Bela Vista, São Paulo - SP
+                      Avenida Brigadeiro Eduardo Gomes nº 750<br />
+                      Vilhena, Rondônia - RO
                     </p>
                   </div>
                 </div>
