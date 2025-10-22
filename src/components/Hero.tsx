@@ -49,12 +49,12 @@ const Hero = () => {
             <Button 
               variant="outline" 
               size="lg"
-              className="text-lg px-8 py-6 border-2 border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
+              className="text-lg px-8 py-6 border-2 border-blue-500 text-blue-500 hover:bg-blue-100 hover:text-blue-600"
               asChild
             >
-              <a href="tel:+556999430176">
+              <a href="https://wa.me/556999430176">
                 <Phone className="mr-2 h-5 w-5" />
-                Ligar Agora
+                WhatsApp
               </a>
             </Button>
           </div>
@@ -62,7 +62,7 @@ const Hero = () => {
           <div className="pt-8 flex flex-wrap justify-center gap-8 text-primary-foreground/90">
             <div className="flex items-center gap-2">
               <Mail className="h-5 w-5" />
-              <span>contato@escritorio.com.br</span>
+              <span>contato@danielschafer.com.br</span>
             </div>
             <div className="flex items-center gap-2">
               <Phone className="h-5 w-5" />

@@ -8,8 +8,8 @@ const Navigation = () => {
         <div className="flex items-center gap-2">
           <Scale className="h-8 w-8 text-primary" />
           <div>
-            <h1 className="text-xl font-bold text-foreground">Advocacia Especializada</h1>
-            <p className="text-xs text-muted-foreground">Desbloqueio Judicial</p>
+            <h1 className="text-xl font-bold text-foreground">Schafer & Gambarra</h1>
+            <p className="text-xs text-muted-foreground">Advocacia Especializada</p>
           </div>
         </div>
 
@@ -25,7 +25,7 @@ const Navigation = () => {
             <Phone className="h-5 w-5" />
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/schaferadvocacia/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center h-10 w-10 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors"
@@ -34,7 +34,7 @@ const Navigation = () => {
             <Instagram className="h-5 w-5" />
           </a>
           <a
-            href="#"
+            href="https://danielschafer.com.br/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center h-10 w-10 rounded-full bg-primary/10 hover:bg-primary hover:text-primary-foreground transition-colors"

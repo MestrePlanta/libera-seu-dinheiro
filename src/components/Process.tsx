@@ -25,7 +25,7 @@ const Process = () => {
     {
       number: "05",
       title: "Liberação",
-      description: "Conseguimos a decisão judicial favorável e a liberação dos seus recursos.",
+      description: "Após a decisão judicial favorável facilitamos aliberação dos seus recursos.",
     },
   ];
 
