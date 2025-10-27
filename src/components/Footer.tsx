@@ -65,13 +65,13 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="h-4 w-4 mt-0.5 flex-shrink-0" />
-                <span className="text-primary-foreground/80">contato@escritorio.com.br</span>
+                <span className="text-primary-foreground/80">contato@danielschafer.com.br</span>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0" />
                 <span className="text-primary-foreground/80">
-                  Av. Paulista, 1000 - Conj. 800<br />
-                  São Paulo - SP
+                  Avenida Brigadeiro Eduardo Gomes nº 750<br />
+                  Vilhena, Rondônia - RO
                 </span>
               </li>
             </ul>
@@ -79,8 +79,8 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm text-primary-foreground/70">
-          <p>© {new Date().getFullYear()} Escritório de Advocacia. Todos os direitos reservados.</p>
-          <p className="mt-2">OAB/SP 000.000 | CNPJ 00.000.000/0001-00</p>
+          <p>© {new Date().getFullYear()} Schafer & Gambarra. Todos os direitos reservados.</p>
+          {/* <p className="mt-2">OAB/SP 000.000 | CNPJ 00.000.000/0001-00</p> */}
         </div>
       </div>
     </footer>
